@@ -1,0 +1,24 @@
+html {
+    background-color: rgb(241, 178, 214);
+    font-family: "zingiber-std", sans-serif;
+}
+
+.site-header {
+    background-color: rgb(225, 78, 108);
+    color: white;
+    font-family: "Syne Tactile", system-ui;
+    font-size: 60px;
+    line-height: 1;
+    font-weight: 100;
+    text-align: center;
+}
+
+.callout {
+    color:chartreuse;
+    font-weight: 900;
+}
+
+
+.address {
+    text-align: center;
+}
